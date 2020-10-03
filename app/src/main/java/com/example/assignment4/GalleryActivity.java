@@ -9,7 +9,6 @@ import com.bumptech.glide.Glide;
 import org.jetbrains.annotations.Nullable;
 
 /**
- * Created by User on 1/2/2018.
  */
 
 public class GalleryActivity extends AppCompatActivity {
