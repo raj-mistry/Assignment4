@@ -30,6 +30,6 @@
         android:layout_marginLeft="10dp"
         android:text="HELLO CANADA"
         android:textColor="@color/colorPrimaryDark"
-        android:textSize="10sp" />
+        android:textSize="15sp" />
 
 </LinearLayout>
